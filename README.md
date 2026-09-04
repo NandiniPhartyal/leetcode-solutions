@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
