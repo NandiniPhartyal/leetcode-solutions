@@ -105,8 +105,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
