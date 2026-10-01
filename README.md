@@ -104,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0520-detect-capital) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
