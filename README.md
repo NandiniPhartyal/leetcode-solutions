@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0268-missing-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
 | ------- |
