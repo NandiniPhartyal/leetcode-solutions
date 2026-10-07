@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
+| [2784-check-if-array-is-good](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2540-minimum-common-value](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2784-check-if-array-is-good](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2706-buy-two-chocolates](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
+| [2784-check-if-array-is-good](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Dynamic Programming
 |  |
 | ------- |
