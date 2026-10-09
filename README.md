@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2540-minimum-common-value](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Stack
 |  |
 | ------- |
