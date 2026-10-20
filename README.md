@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1871-jump-game-vii](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1871-jump-game-vii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1871-jump-game-vii](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Stack
@@ -201,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
