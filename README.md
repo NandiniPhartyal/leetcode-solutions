@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2706-buy-two-chocolates](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
