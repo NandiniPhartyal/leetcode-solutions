@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0268-missing-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2706-buy-two-chocolates](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
