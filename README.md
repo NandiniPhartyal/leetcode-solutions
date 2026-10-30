@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
