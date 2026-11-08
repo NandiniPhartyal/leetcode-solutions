@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Design
 |  |
 | ------- |
