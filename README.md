@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
