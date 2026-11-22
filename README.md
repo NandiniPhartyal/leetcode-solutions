@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/1871-jump-game-vii) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NandiniPhartyal/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Stack
